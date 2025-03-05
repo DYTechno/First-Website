@@ -1,0 +1,1 @@
+Hello everyone! This is my first ever website and it's just a simple website using HTML and CSS to display a brief description about a country in Indonesia which is Bandung! This will mark my first ever website on my journey to become a full stack web developer!
